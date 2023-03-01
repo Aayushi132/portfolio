@@ -22,7 +22,11 @@ class Home extends Component {
             <ol>
               <img src="../PetServices.jpg" alt="petservices"></img>
               <h2>
-                <a target="_blank" href=""></a>PET SERVICES
+                <a
+                  target="_blank"
+                  href="https://majestic-pithivier-e2b18a.netlify.app/"
+                ></a>
+                PET SERVICES
               </h2>
             </ol>
             <ol>
