@@ -25,8 +25,9 @@ class Home extends Component {
                 <a
                   target="_blank"
                   href="https://majestic-pithivier-e2b18a.netlify.app/"
-                ></a>
-                PET SERVICES
+                >
+                  PET SERVICES
+                </a>
               </h2>
             </ol>
             <ol>
