@@ -6,7 +6,7 @@ class About extends Component {
     return (
       <div>
         <AppNavbar />
-        
+       <p> I recently finished the coding bootcamp from Westcliff University. I have always been excited to learn about new challenges and finishing the bootcamp has been one of the biggest achievements for me as a student.</p>
       </div>
     );
   }
